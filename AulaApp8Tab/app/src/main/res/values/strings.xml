@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AulaApp8Tab</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="string_frag_A">Fragment A</string>
+    <string name="string_frag_B">Fragment B</string>
+</resources>
